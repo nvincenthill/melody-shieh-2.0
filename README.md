@@ -24,6 +24,6 @@ I use [Git](https://git-scm.com/) for versioning.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Creative Commons - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 I make a concerted effort to use only unlicensed content - If I have included your work submit a pull request and I will remove it.
